@@ -1,0 +1,3 @@
+useDynLib(onlineCOV,.registration = TRUE)
+export(nuisance.est,stopping.rule)
+importFrom("stats","integrate","uniroot")

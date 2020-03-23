@@ -1,0 +1,14 @@
+2dfafcb32d2ddbc2a1c4debdf3bbe128 *DESCRIPTION
+52269362a5857fe2a84cba84fc4cf774 *NAMESPACE
+21b6915500795a056b72357a7e41d1c7 *R/B.mat.R
+6d7329ec34a0d15a0b35a68f915ca01d *R/M.est.R
+29040b6b2ad073b3193494fa0d212694 *R/cor.est.R
+6a4754ca700c2137ccda4d665db4993f *R/nuisance.est.R
+7f5e79d239f21b3d2c88746936c3c214 *R/stat.test.R
+53eed57c2a00d9b9de2d6c941cd3736a *R/stopping.rule.R
+0bbc50956d4c218bf5dbeaffd8b27b8c *man/nuisance.est.Rd
+b47f4560e3786a565ce3b8cd5f08b31c *man/stopping.rule.Rd
+6a17bc9d090910f233c2ede44fda6041 *src/code1.f90
+6a5781fc73793e27c2f5c435784f00a8 *src/code2.f90
+35c31006cd79f5bcc709d3d4779c5609 *src/code3.f90
+b55a3a00559ac10d9f36b00a3a0314cc *src/init.c
